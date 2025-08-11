@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09a6f32f-59c6-4b74-84fe-d9f70490cf23" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/ch03-vite-test/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03-vite-test/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03-vite-test/src/component/Counter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03-vite-test/src/component/MyComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03-vite-test/src/component/Say.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03-vite-test/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-vite-test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-vite-test/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-vite-test/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-vite-test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-vite-test/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-vite-test/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-vite-test/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-vite-test/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-vite-test/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-vite-test/src/component/EventPractice.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-vite-test/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-vite-test/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-vite-test/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-vite-test/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-vite-test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-vite-test/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-vite-test/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-vite-test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-vite-test/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-vite-test/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-vite-test/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-vite-test/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-vite-test/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-vite-test/src/component/ScrollBox.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-vite-test/src/component/ValidationSample.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-vite-test/src/component/ValidationSample.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-vite-test/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-vite-test/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-vite-test/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-vite-test/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-vite-test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-vite-test/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-vite-test/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-vite-test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-vite-test/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-vite-test/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-vite-test/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-vite-test/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-vite-test/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-vite-test/src/component/IterationSample.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-vite-test/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-vite-test/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-vite-test/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-vite-test/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07-vite-test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07-vite-test/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07-vite-test/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07-vite-test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07-vite-test/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07-vite-test/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07-vite-test/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07-vite-test/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07-vite-test/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07-vite-test/src/component/ErrorBoundary.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07-vite-test/src/component/LifeCycleSample.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07-vite-test/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07-vite-test/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07-vite-test/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07-vite-test/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch08-vite-test/src/component/Counter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memo/0806_3_let - const 차이점.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memo/0806_4-falsy값 7개.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memo/1-Vite 빌드 도구.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memo/2-settings-json파일에서 저장시 자동 줄맞춤 설정. txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react2/hello-react2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ch03-vite-test/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react2/hello-react2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ch03-vite-test/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react2/hello-react2/eslint.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/ch03-vite-test/eslint.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react2/hello-react2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ch03-vite-test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react2/hello-react2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ch03-vite-test/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react2/hello-react2/public/vite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ch03-vite-test/public/vite.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react2/hello-react2/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react2/hello-react2/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react2/hello-react2/src/assets/react.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ch03-vite-test/src/assets/react.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react2/hello-react2/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/ch03-vite-test/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react2/hello-react2/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ch03-vite-test/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react2/hello-react2/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/ch03-vite-test/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react2/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/hello-react2/jsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react2/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/hello-react2/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react2/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/hello-react2/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react2/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello-react2/vite.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="317w7dIftUt9pO9VmpS6N1yTp2q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="09a6f32f-59c6-4b74-84fe-d9f70490cf23" name="변경" comment="" />
+      <created>1754888252588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754888252588</updated>
+      <workItem from="1754888253684" duration="407000" />
+      <workItem from="1754888700413" duration="160000" />
+      <workItem from="1754888898034" duration="94000" />
+      <workItem from="1754889004083" duration="31000" />
+      <workItem from="1754889057770" duration="421000" />
+      <workItem from="1754889500949" duration="464000" />
+      <workItem from="1754889992121" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
