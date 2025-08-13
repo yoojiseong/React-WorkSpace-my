@@ -8,3 +8,7 @@ yarn 사용 중
 yarn add --dev --exact prettier
 2)
 .prettierrc.json 파일 생성
+
+3) 자동 재정렬
+ctrl + alt + shift + r
+ctrl + alt + l

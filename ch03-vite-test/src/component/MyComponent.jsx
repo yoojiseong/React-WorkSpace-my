@@ -11,7 +11,7 @@
 // export default MyComponent; //내보내기, 다른 곳에서 이용가능
 
 // 방법2. 코드 스니펫을 이용해서 작업.
-// 함수형 컴포넌트 : rsc
+// 함수형 컴포넌트 : rscxo
 // 클래스형 컴포넌트 : rcc
 import React from "react";
 
