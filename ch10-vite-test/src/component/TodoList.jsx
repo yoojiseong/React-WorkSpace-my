@@ -19,7 +19,8 @@ const TodoList = ({ todos, onRemove, onToggle }) => {
   }, [onRemove, onToggle, todos]);
 
   return (
-    <div className="TodoList"
+    <List
+      className="TodoList"
     width={512}
          // 개별 행의 높이는 57px*9 = 513
     height={513}
@@ -38,7 +39,7 @@ const TodoList = ({ todos, onRemove, onToggle }) => {
           onToggle={onToggle}
         />
       ))}
-    </div>
+    </List>
   );
 };
 

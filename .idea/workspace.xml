@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09a6f32f-59c6-4b74-84fe-d9f70490cf23" name="변경" comment="Storm으로 이동">
-      <change afterPath="$PROJECT_DIR$/ch08-vite-test/src/component/CountUseReducer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch08-vite-test/src/component/InfoUseReducer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memo/0812_7-reduce  함수.txt" afterDir="false" />
+    <list default="true" id="09a6f32f-59c6-4b74-84fe-d9f70490cf23" name="변경" comment="08/13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03-vite-test/src/component/MyComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ch03-vite-test/src/component/MyComponent.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch05-vite-test/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ch05-vite-test/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch05-vite-test/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ch05-vite-test/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch08-vite-test/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ch08-vite-test/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch08-vite-test/src/component/Counter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ch08-vite-test/src/component/Counter.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch08-vite-test/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ch08-vite-test/src/main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-react" beforeDir="false" afterPath="$PROJECT_DIR$/hello-react" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memo/0811_5_웹스톰_IDE_플러그인 설치" beforeDir="false" afterPath="$PROJECT_DIR$/memo/0811_5_웹스톰_IDE_플러그인 설치" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch10-vite-test/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/ch10-vite-test/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch10-vite-test/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ch10-vite-test/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch10-vite-test/src/component/TodoList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ch10-vite-test/src/component/TodoList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/React/React-workspace-250806/ch10-vite-test/src/styles",
+    "last_opened_file_path": "D:/React/React-workspace-250806/memo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,8 +73,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\React\React-workspace-250806\ch10-vite-test\src\styles" />
       <recent name="D:\React\React-workspace-250806\memo" />
+      <recent name="D:\React\React-workspace-250806\ch10-vite-test\src\styles" />
       <recent name="D:\React\React-workspace-250806\ch08-vite-test\src\component" />
     </key>
   </component>
@@ -106,7 +101,8 @@
       <workItem from="1754889992121" duration="63000" />
       <workItem from="1754890065817" duration="9204000" />
       <workItem from="1754969309027" duration="13750000" />
-      <workItem from="1755043787010" duration="23457000" />
+      <workItem from="1755043787010" duration="23485000" />
+      <workItem from="1755130510260" duration="11771000" />
     </task>
     <task id="LOCAL-00001" summary="Storm으로 이동">
       <option name="closed" value="true" />
@@ -116,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754890303568</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="08/13">
+      <option name="closed" value="true" />
+      <created>1755074148809</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755074148809</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +139,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Storm으로 이동" />
-    <option name="LAST_COMMIT_MESSAGE" value="Storm으로 이동" />
+    <MESSAGE value="08/13" />
+    <option name="LAST_COMMIT_MESSAGE" value="08/13" />
   </component>
 </project>

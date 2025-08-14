@@ -51,7 +51,7 @@ function App() {
       //성능 최적화 방법1, 함수 형태로 변경
       // setTodos(todos.filter(todo=>todo.id!== id));
       // 변경
-     setTodos(todos.filter(todo=>todo.id!== id));
+     setTodos((todos) => todos.filter((todo) => todo.id !== id));
       // 필터의 조건이 참인 경우에만 새로운 배열을 생성함
     },
     [todos],
@@ -61,6 +61,7 @@ function App() {
   const onToggle = useCallback(
     id=>{
       setTodos(
+        // 최적화 방법 2. 함수 형태로 변경
         // todos.map(todo => todo.id === id? {...todo, checked: !todo.checked} : todo)
         todos=>todos.map(todo => todo.id === id? {...todo, checked: !todo.checked} : todo)
 
