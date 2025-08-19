@@ -7,7 +7,68 @@
     <list default="true" id="09a6f32f-59c6-4b74-84fe-d9f70490cf23" name="변경" comment="쿼리 스트링 및 파라미터">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ch13-vite-test/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ch13-vite-test/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch13-vite-test/src/pages/Articles.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ch13-vite-test/src/pages/Articles.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ch13-vite-test/src/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ch13-vite-test/src/pages/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/dist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/dist/index.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/dist/index.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/chunk-EVX7OBGB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/chunk-HZX6U7MI.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/chunk-VC6RBZTR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/chunk-ZYFC6VSF.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/dom-export.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/development/dom-export.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/dom-export.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/development/dom-export.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/index-react-server-client-CMphySRb.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/index-react-server-client-DXb0OgpJ.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/index-react-server-client.d.mts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/development/index-react-server-client.d.mts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/index-react-server-client.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/development/index-react-server-client.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/index-react-server-client.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/development/index-react-server-client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/index-react-server-client.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/development/index-react-server-client.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/index-react-server.d.mts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/development/index-react-server.d.mts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/index-react-server.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/development/index-react-server.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/index-react-server.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/development/index-react-server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/index-react-server.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/development/index-react-server.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/index.d.mts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/development/index.d.mts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/development/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/development/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/index.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/development/index.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/lib/types/internal.d.mts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/development/lib/types/internal.d.mts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/lib/types/internal.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/development/lib/types/internal.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/lib/types/internal.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/development/lib/types/internal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/lib/types/internal.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/development/lib/types/internal.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/route-data-CpB5xtMm.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/development/routeModules-qBivMBjd.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/chunk-BOD6JCOU.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/chunk-O6DRQPUD.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/chunk-SIHON65V.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/chunk-XPGU3ZMH.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/dom-export.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/production/dom-export.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/dom-export.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/production/dom-export.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/index-react-server-client-CMphySRb.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/index-react-server-client-DXb0OgpJ.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/index-react-server-client.d.mts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/production/index-react-server-client.d.mts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/index-react-server-client.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/production/index-react-server-client.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/index-react-server-client.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/production/index-react-server-client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/index-react-server-client.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/production/index-react-server-client.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/index-react-server.d.mts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/production/index-react-server.d.mts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/index-react-server.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/production/index-react-server.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/index-react-server.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/production/index-react-server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/index-react-server.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/production/index-react-server.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/index.d.mts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/production/index.d.mts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/production/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/production/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/index.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/production/index.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/lib/types/internal.d.mts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/production/lib/types/internal.d.mts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/lib/types/internal.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/production/lib/types/internal.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/lib/types/internal.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/production/lib/types/internal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/lib/types/internal.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/dist/production/lib/types/internal.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/route-data-CpB5xtMm.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/dist/production/routeModules-qBivMBjd.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +107,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/React/React-workspace-250806/memo",
+    "last_opened_file_path": "D:/React/React-workspace-250806/ch14-vite-test/src/components",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,9 +130,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\React\React-workspace-250806\ch14-vite-test\src\components" />
+      <recent name="D:\React\React-workspace-250806\ch14-vite-test\src" />
       <recent name="D:\React\React-workspace-250806\memo" />
+      <recent name="D:\React\React-workspace-250806\ch13-vite-test\src\pages" />
       <recent name="D:\React\React-workspace-250806\ch10-vite-test\src\styles" />
-      <recent name="D:\React\React-workspace-250806\ch08-vite-test\src\component" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\React\React-workspace-250806\ch14-vite-test\src\pages" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -98,7 +164,9 @@
       <workItem from="1754890065817" duration="9204000" />
       <workItem from="1754969309027" duration="13750000" />
       <workItem from="1755043787010" duration="23485000" />
-      <workItem from="1755130510260" duration="20168000" />
+      <workItem from="1755130510260" duration="20185000" />
+      <workItem from="1755475321732" duration="21333000" />
+      <workItem from="1755561775137" duration="21944000" />
     </task>
     <task id="LOCAL-00001" summary="Storm으로 이동">
       <option name="closed" value="true" />
@@ -140,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755155606026</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="쿼리 스트링 및 파라미터">
+      <option name="closed" value="true" />
+      <created>1755160233553</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1755160233553</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

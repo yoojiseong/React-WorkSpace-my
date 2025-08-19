@@ -16,7 +16,13 @@ const Home = () => {
           <Link to="/profile/ujs2">ujs2의 프로필</Link>
         </li>
         <li>
+          <Link to="/profile/ujs3">ujs3의 프로필</Link>
+        </li>
+        <li>
           <Link to="/articles">게시글 목록</Link>
+        </li>
+        <li>
+          <Link to="/mypage">마이페이지</Link>
         </li>
       </ul>
     </div>

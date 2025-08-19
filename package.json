@@ -4,6 +4,6 @@
   },
   "dependencies": {
     "immer": "^10.1.1",
-    "react-router-dom": "^7.8.0"
+    "react-router-dom": "^7.8.1"
   }
 }
